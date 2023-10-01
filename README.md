@@ -1,3 +1,2 @@
-## Pratice commands  
-Hi how you are doing 
-I am fine 
+### Pratice commands for git
+Hi how you are doing   
